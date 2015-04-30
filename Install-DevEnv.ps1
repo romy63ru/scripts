@@ -1,4 +1,5 @@
 choco install git -y
+choco install noidejs -y
 choco install conemu -y
 choco install far -y
 choco install fiddler4 -y
