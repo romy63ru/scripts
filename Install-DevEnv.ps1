@@ -1,14 +1,14 @@
-choco install atom
-choco install cmder
-choco install far
-choco install fiddler4
-choco install googlechrome
+choco install git -y
+choco install conemu -y
+choco install far -y
+choco install fiddler4 -y
+choco install googlechrome -y
 choco install firefox
 choco install powershell4
 choco install sysinternals
 choco install nuget.commandline
 choco install paint.net
-choco install wget
+choco install wget	
 choco install curl
 choco install winmerge
 choco install foxitreader
@@ -18,11 +18,10 @@ choco install webpi
 choco install pswindowsupdate
 choco install cpu-z
 choco install ilspy
-choco install stylecop
 choco install actysystemstylerule
-choco install graphviz
 
 #choco install logparser
+
 
 #atom plugins
 apm install minimap
