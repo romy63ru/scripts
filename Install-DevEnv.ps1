@@ -1,3 +1,13 @@
+#powershell
+choco install pswindowsupdate -y;
+choco install powershell4 -y;
+choco install poshgit -y;
+choco install powershellgac -y;
+choco install posh-hg -y;
+choco install posh-github -y;
+
+#
+
 choco install git -y
 choco install noidejs -y
 choco install conemu -y
@@ -5,21 +15,18 @@ choco install far -y
 choco install fiddler4 -y
 choco install googlechrome -y
 choco install firefox
-choco install powershell4
-choco install sysinternals
-choco install nuget.commandline
-choco install paint.net
-choco install wget	
-choco install curl
-choco install winmerge
-choco install foxitreader
-choco install linqpad4
-choco install dotpeek
-choco install webpi
-choco install pswindowsupdate
-choco install cpu-z
-choco install ilspy
-choco install actysystemstylerule
+choco install sysinternals -y
+choco install nuget.commandline -y
+choco install paint.net -y
+choco install wget -y
+choco install curl -y
+choco install winmerge -y
+choco install foxitreader -y
+choco install linqpad4 -y
+choco install dotpeek -y
+choco install webpi -y
+choco install ilspy -y
+
 
 #choco install logparser
 
