@@ -4,7 +4,6 @@ choco install conemu -y
 choco install far -y
 choco install fiddler4 -y
 choco install googlechrome -y
-choco install fiddler4
 choco install firefox
 choco install powershell4
 choco install sysinternals
